@@ -8,6 +8,11 @@ Um projeto simples em JavaScript para sortear nomes de um grupo de amigos, desen
 
 ![Challenge Amigo Secreto](https://github.com/user-attachments/assets/32a2cb53-d630-4c3f-941b-cb71bbacb449)
 
+---
+
+## 💻 Link Vercel
+
+https://challenge-amigo-secreto-alura-phi.vercel.app/
 
 ---
 
